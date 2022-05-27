@@ -6,6 +6,7 @@ import com.appb34r.simplewordbook.ui.main.MainFragment
 
 class MainActivity : AppCompatActivity() {
 
+    //test
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
